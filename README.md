@@ -14,7 +14,7 @@ Hello, I'm Deb. I'm a data analyst who loves turning complex data into clear sto
 - **Other**: Excel
 
 ### 📚 Projects
-Check out my work [here]([https://github.com/debra-analyst/portfolio]).
+Check out my work [here](https://github.com/debra-analyst/portfolio).
 
 ---
 
