@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩🏽‍🏫 Who's Deb and What's She Building?
 
-<!--
-**debra-analyst/debra-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Deb. I'm a data analyst who loves turning complex data into clear stories. I specialize in SQL, Power BI, Tableau, Python, and I’m always learning something new.
 
-Here are some ideas to get you started:
+### What I Do
+- Query and clean data using SQL
+- Build dynamic dashboards in Power BI and Tableau
+- Analyze trends and solve real-world problems with data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I Use
+- **Languages**: SQL, Python
+- **Databases**: MySQL, PostgreSQL
+- **Visualization**: Power BI, Taleau
+- **Other**: Excel
+
+### 📚 Projects
+Check out my work [here](https://github.com/debra-analyst?tab=repositories).
+
+---
+
+**Let's connect!**  
+Feel free to reach out or follow my journey here on GitHub or [Linkedin](https://github.com/debra-analyst?tab=repositories).
